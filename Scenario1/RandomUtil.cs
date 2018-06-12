@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Scénario1
+namespace Scenario1
 {
     public static class RandomUtil
     {

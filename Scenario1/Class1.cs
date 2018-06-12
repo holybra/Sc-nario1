@@ -7,7 +7,7 @@ using RestSharp;
 using System;
 using System.Net;
 
-namespace Scénario1
+namespace Scenario1
 {
     [TestFixture]
     public class Users
